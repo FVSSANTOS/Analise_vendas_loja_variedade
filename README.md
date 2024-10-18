@@ -1,5 +1,5 @@
 
-# Análise de vendas de loja de variedade
+# Análise de vendas de loja de variedades
 
 - Análise realizada utilizando a linguagem de programação Python e as bibliotecas numpy, pandas, matplotlib e seaborn
 
